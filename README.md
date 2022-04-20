@@ -1,0 +1,2 @@
+# Sales_app
+Tkinter is the standard GUI library for Python. Python when combined with Tkinter provides a fast and easy way to create GUI applications. Tkinter provides a powerful object-oriented interface to the Tk GUI toolkit.Python has a lot of GUI frameworks, but Tkinter is the only framework that's built into the Python standard library.Using this library i created an application for sales entry.Mainly CRUD application for a sales history.
